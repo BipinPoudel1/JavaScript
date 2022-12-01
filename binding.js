@@ -10,3 +10,16 @@ let dept=150;
 //suppose that friend paid Rs.35 then the remaining dept is
 dept=dept-35;
 console.log("Rs." + dept);
+
+
+//If we ask for the value of an empty binding, we get "undefined"
+let one;
+console.log(one);	//undefined
+
+//var and const are also used to binding
+
+var name= "Tony";
+const greeting= "Hello";
+console.log(greeting + ", "+ name);
+
+
