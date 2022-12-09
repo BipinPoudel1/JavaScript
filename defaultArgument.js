@@ -8,4 +8,4 @@ function power(base, exponent=2){
 }
 
 power(2);
-power(2, 6);
+power(3, 6);
