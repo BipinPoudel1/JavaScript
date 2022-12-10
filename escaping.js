@@ -11,7 +11,7 @@
 	6. \v			Vertical Tabulator
 */
 
-console.log("Use of \b           'b' escape sequence.");
+console.log("Use of \b 'b' escape sequence.");
 console.log("Use of \f 'f' escape sequence.");
 console.log("Use of \n 'n' escape sequence ");
 console.log("Use of \r 'r'.");
