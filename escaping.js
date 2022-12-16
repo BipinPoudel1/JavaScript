@@ -16,7 +16,7 @@ console.log("Use of \f 'f' escape sequence.");
 console.log("Use of \n 'n' escape sequence ");
 console.log("Use of \r 'r'.");
 console.log("use of \t 't'.");
-console.log("Use of \v 'v'");
+console.log("Use of \v 'v'");	//try it out
 
 
 //For actual backslash
