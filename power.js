@@ -7,4 +7,4 @@ function power(base, exponent){
 	}
 }
 
-console.log(power(2, 3));
+console.log(power(3, 3));
