@@ -40,7 +40,7 @@ function printCattles(number, width){
 	while(strNum.length<width){
 		strNum="0"+strNum;
 	}
-	return strNum;
+	return strNum; //
 }
 
 function cattlesPresent(cows, chicken, pigs){
