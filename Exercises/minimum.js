@@ -2,4 +2,4 @@
 function minimumNumber(a, b){
        return Math.min(a,b);
 }
-console.log(minimumNumber(1, 2));
+console.log("The minimum number is "+minimumNumber(1, 2));
