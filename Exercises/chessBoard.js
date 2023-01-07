@@ -21,7 +21,7 @@ for(let i=1; i<=8; i++){
             if((i+j)%2==0){
                   process.stdout.write(" ");
             }else{
-                  process.stdout.write("#");
+                  process.stdout.write("*");
             }
       }
       process.stdout.write("\n");
