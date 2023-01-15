@@ -9,7 +9,7 @@ console.log(caught);
 let dept=150;
 //suppose that friend paid Rs.35 then the remaining dept is
 dept=dept-35;
-console.log("Rs." + dept);
+console.log("$" + dept);
 
 
 //If we ask for the value of an empty binding, we get "undefined"
