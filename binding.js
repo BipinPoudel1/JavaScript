@@ -1,6 +1,6 @@
 //Binding simply means making the program remember our required values whenever necessary.
 
-let caught= 5*5;
+let caught= 5*4;
 console.log(caught);
 
 //Binding values can be changed according to the need of the program
